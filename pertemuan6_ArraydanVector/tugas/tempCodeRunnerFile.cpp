@@ -1,0 +1,1 @@
+if (kalimat.length()>100) exit(0);
